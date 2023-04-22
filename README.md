@@ -4,11 +4,18 @@
 
 &nbsp;
 
-![cert](https://github.com/RamNikhilRN/Google-Data-Analaytics-Coursera/blob/88e761ab7bc6feb49c53ba0c7cbe1a7511bdbd08/Coursera%206A85GEB5XU56.png)
+![cert](https://github.com/RamNikhilRN/Building-Scalable-Java-Microservices-with-Spring-Boot-and-Spring-Cloud/blob/main/Coursera%206CXHWB2KH29U-1.png)
 
 * This repository written for reference and self-documentation purpose
 
 
-Data analytics is the collection, transformation, and organization of data in order to draw conclusions, make predictions, and drive informed decision making. 
+"¨Microservices"" describes a software design pattern in which an application is a collection of loosely coupled services. These services are fine-grained, and can be individually maintained and scaled. The microservices architecture is ideal for the public cloud, with its focus on elastic scaling with on-demand resources. In this course, I have learnt how to build Java applications using Spring Boot and Spring Cloud on Google Cloud. 
 
-Over 8 courses, I gain in-demand skills that prepare for an entry-level Data analyst job. I learnt from Google employees whose foundations in data analytics served as launchpads for my own careers. 
+What i learnt:
+Build Spring Boot microservices that consume Google Cloud managed services
+
+Send and receive messages with Pub/Sub and Spring Integration.
+
+Use Cloud SQL as a managed relational database for your Java applications, and migrate to Cloud Spanner
+
+Implement distributed tracing by using Cloud Trace
